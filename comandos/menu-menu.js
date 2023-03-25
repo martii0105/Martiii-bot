@@ -50,7 +50,7 @@ let menuA = `
 *┃┃ ⋄ LENGUAJE » 𝐄𝐒𝐏𝐀𝐍̃𝐎𝐋*
 *┃┃ ⋄ USUARIOS » ${Object.keys(global.db.data.users).length}*
 *┃╰━━━━━━━━━━━━━━━━╾•*
-*╰━━━╼𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃╾━━━╯*`.trim()
+*╰━━━╼MARTII-BOT╾━━━╯*`.trim()
 
 let menuB = `
 *═〔 INFO DEL USUARIO 〕⬣═*
@@ -238,7 +238,7 @@ let menuB = `
 ├➢${usedPrefix}destraba 
 ├➢${usedPrefix}todos 
 ├➢${usedPrefix}notify
-└────ׂ─ׂ─ׂ─ׂ───
+└─── MARTII-BOT ───
 
 ┌──「🛡️𝐆𝐈𝐓𝐇𝐔𝐁」─
 ├➢/instalarbot
@@ -470,7 +470,7 @@ let menuB = `
 ├➢_UwU_
 ├➢_:(
 ├➢_a_
-└────ׂ─ׂ─ׂ─ׂ──
+└─── MARTII-BOT ──
 
 
 ┌──「🛠️𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒」─
