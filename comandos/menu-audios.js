@@ -16,6 +16,25 @@ let str = `
 *[❕] ALGUNOS AUDIOS SON NUEVOS, SI VE ALGUN TIPO DE FALLA REPÓRTELO CON #reporte <texto>*
 
 ┌「🎵𝐀𝐔𝐃𝐈𝐎𝐒」
+├➢▶️ _cállate_
+├➢▶️ _cállate wn_
+├➢▶️ _cuidaoo_
+├➢▶️ _dicen_
+├➢▶️ _gracia_
+├➢▶️ _no_
+├➢▶️ _oquei_
+├➢▶️ _qn eri_
+├➢▶️ _qn es_
+├➢▶️ _qué?_
+├➢▶️ _qwea_
+├➢▶️ _sipo_
+├➢▶️ _tngo sueño_
+├➢▶️ _tratame bien_
+├➢▶️ _triste_
+├➢▶️ _wn pesao_
+├➢▶️ _xd_
+├➢▶️ _xdd_
+├➢▶️ _xwn_
 ├➢▶️ _Quien es tu sempai botsito 7w7_
 ├➢▶️ _Te diagnostico con gay_
 ├➢▶️ _A nadie le importa_
