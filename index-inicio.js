@@ -5,18 +5,17 @@ import { fileURLToPath } from 'url'
 import { setupMaster, fork } from 'cluster'
 import { watchFile, unwatchFile } from 'fs'
 import { createInterface } from 'readline'
-import yargs from 'yargs'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const require = createRequire(__dirname) 
 const { name, author } = require(join(__dirname, './package.json')) 
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('THE DORRAT-BOT-MD', {
+say('Martii-bot')
 font: 'tiny',
 align: 'center',
 colors: ['#ff8000']})
-say(`CREADO POR DIEGO-OFC`, {
+say(`CREADO POR @martiii.bs`, {
 font: 'console',
 align: 'center',
 colors: ['red']})
