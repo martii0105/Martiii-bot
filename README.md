@@ -39,8 +39,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Martinaa878/Martii-bot
-> cd Martii-bot
+> git clone https://github.com/martii0105/Martiii-bot
+> cd Martiii-bot
 > yarn install 
 > npm install
 > npm update
@@ -51,7 +51,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Martii-bot
+> cd Martiii-bot
 > npm start
 ```
 
@@ -61,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd Martiii-bot
 > npm start
 ```
 
